@@ -24,7 +24,7 @@ async function requesterr(){
     const options = {
         url: 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?sort=cmc_rank',
         headers: {
-          'X-CMC_PRO_API_KEY': '83ae5966-d0d2-40ae-85ad-0a680b4b99b8'
+          'X-CMC_PRO_API_KEY': 'HERE, THERE WAS MY API KEY'
         }
     }
 
