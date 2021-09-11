@@ -15,7 +15,7 @@ const auth = async (req,res,next) => {
         }
 
        
-        req.userobject = user
+       
        
         next()
       
